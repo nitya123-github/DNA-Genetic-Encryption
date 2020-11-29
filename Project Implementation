@@ -1,13 +1,13 @@
-TOOLS USED: PYTHON
+#TOOLS USED: PYTHON
 
-MODULES:
+#MODULES:
 Pre processing
 Encryption
 Re shaping
 Cross over
 Mutation
 
-ABSTRACT: 
+#ABSTRACT: 
 In this technique,we take binaries of any type of digital data and convert it to DNA sequencing, reshape, encrypt, crossover, mutate and then reshape. The main stages of D-GET are repeated three times or more. Transmit the encrypted data in text/image format file. In other side, the receiver uses the D-GET to decrypt the received data and reshape it to original format. This Technique  multiple key sequences to increase the degree of diffusion and confusion, which makes resulting cipher data difficult to decipher and makes to realize a perfect secrecy system. Experimental results demonstrate that proposed technique has multilayer protection stages against different attacks and higher level of security based on the multi-stages and genetic operations. Decrypted data are acceptable because of there is absolutely difference between it and secret data. 
 
 STAGES:
