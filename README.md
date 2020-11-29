@@ -1,4 +1,5 @@
-# DNA GENETIC ENCRYPTION
+# DNA GENETIC ENCRYPTION 
+<h3> COMPLETED A RESEARCH PAPER AND ATTACHED IT IN FOLDER AS "DNA-FINAL DOC" </h3>
 In this project we implement a DNA-Genetic Encryption Technique (D-GET) in order to make the DNA SEQUENCE more secure and less predictable.
 
 <h3> TOOLS USED: </h3>
